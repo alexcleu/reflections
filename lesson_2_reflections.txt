@@ -1,0 +1,1 @@
+When you initialize a respository, you create a .git clone in teh file. You do so for it to start initalizing taking snapshot of your repository into your system!
