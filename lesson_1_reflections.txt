@@ -1,0 +1,21 @@
+Easy access to the entire history helps your to recognize
+what programs you have written correctly
+adn what programs are incorrect
+it helps to build characters
+
+I guess having version control will make me feel better about making mistakes. haha 
+
+
+I believe a programer should choose to save when he/she chooses to save. :)
+
+Manually choosing to create Git helps you to know when is it important to save the file. Automatcailly like Google Doc coudl result in too many of hte same copy existing in teh same system. 
+
+Git log helps yout o find out the historical logs of all the commits. git tiff thelps you find out the difference fo teh two. 
+
+ewing a di
+ff between tw
+o version spo
+
+Git saving multiple is better as a workstaiton requries many different files to work together. it makes mroe sense to combine all of them together. `::
+
+dft the bug? It is easy since it helps yout locate which one exists in teh one, but hte other one doesn't exist. It help sexextremely to compare and contrast to see what are the difference. 
